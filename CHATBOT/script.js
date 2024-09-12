@@ -9,21 +9,21 @@ function mandarMensaje() {
     
     // Palabras clave de violencia
     var palabrasClave = [
-      "abusa", "abusaba", "abusar",
-      "maltrata", "maltrataba", "maltratar",
-      "agrede", "agredía", "agredir",
-      "violentaba", "violentar", "violento",
-      "acosaba", "acosar", "acoso",
-      "amenazaba", "amenazar", "amenazante",
-      "golpea", "golpeaba", "golpear", 
-      "pega", "pegaba", "pegar",
+      "abusa", "abusaba", "abusar","abusando",
+      "maltrata", "maltrataba", "maltratar","maltratando",
+      "agrede", "agredía", "agredir", "agrediendo",
+      "violentaba", "violentar", "violento","violentando",
+      "acosaba", "acosar", "acoso","acosando",
+      "amenazaba", "amenazar", "amenazante","amenazando",
+      "golpea", "golpeaba", "golpear", "golpeando",
+      "pega", "pegaba", "pegar","pegando",
       "agrede sexualmente", "agresión sexual",
-      "hostiga", "hostigaba", "hostigar",
+      "hostiga", "hostigaba", "hostigar","hostigando",
       "victimiza", "victimizaba", "victimizar",
-      "intimida", "intimidaba", "intimidar",
-      "coacciona", "coaccionaba", "coaccionar",
-      "manipula", "manipulaba", "manipular",
-      "controla", "controlaba", "controlar",
+      "intimida", "intimidaba", "intimidar","intimidando",
+      "coacciona", "coaccionaba", "coaccionar","coaccionando",
+      "manipula", "manipulaba", "manipular","manipulando",
+      "controla", "controlaba", "controlar","controlando",
       "suicida", "suicidarse", "suicidio"
     ];
     
